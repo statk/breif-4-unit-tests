@@ -1,7 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace breif_4_unit_tests.Test
 {
@@ -29,8 +26,8 @@ namespace breif_4_unit_tests.Test
         public void CalculateMultiplication_should_return_multiplication_of_two_numbers()
         {
             // Arrange.
-            var firstNumber = 2;
-            var secondNumber = 2;
+            var firstNumber = 3;
+            var secondNumber = 3;
             var businessLogic = new BusinessLogic(firstNumber, secondNumber);
 
             // Act.
