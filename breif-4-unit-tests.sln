@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "breif-4-unit-tests", "breif-4-unit-tests\breif-4-unit-tests.csproj", "{DB05AE84-0D8B-41D1-81C6-F45AD142E85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "breif-4-unit-tests.Test", "breif-4-unit-tests.Test\breif-4-unit-tests.Test.csproj", "{36F8AB0F-3AAD-4125-8A64-0E921030B463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB05AE84-0D8B-41D1-81C6-F45AD142E85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB05AE84-0D8B-41D1-81C6-F45AD142E85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB05AE84-0D8B-41D1-81C6-F45AD142E85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB05AE84-0D8B-41D1-81C6-F45AD142E85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F8AB0F-3AAD-4125-8A64-0E921030B463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F8AB0F-3AAD-4125-8A64-0E921030B463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F8AB0F-3AAD-4125-8A64-0E921030B463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F8AB0F-3AAD-4125-8A64-0E921030B463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37D27162-529F-424E-9223-589544995DE7}
+	EndGlobalSection
+EndGlobal
