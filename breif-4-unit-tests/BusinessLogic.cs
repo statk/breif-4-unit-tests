@@ -13,7 +13,7 @@
        
         public int CalculateSum()
         {
-            return _firstNumber + _secondNumber;
+            return _firstNumber + _secondNumber + _secondNumber;
         }
         
         public int CalculateMultiplication()
